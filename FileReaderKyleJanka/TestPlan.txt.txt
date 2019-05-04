@@ -1,0 +1,4 @@
+Kyle Janka
+File Reader
+
+The main issue I ran in to here was I forgot to add the ! to the Endstream control which would not allow the program to run properly. After I fixed this issue I had no other problems putting in files and seeing their content.

@@ -1,0 +1,10 @@
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\bin\Debug\FileReaderKyleJanka.exe.config
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\bin\Debug\FileReaderKyleJanka.exe
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\bin\Debug\FileReaderKyleJanka.pdb
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.csprojAssemblyReference.cache
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.fileReader.resources
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.Properties.Resources.resources
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.csproj.GenerateResource.cache
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.exe
+C:\Users\Kyle Janka\source\repos\FileReaderKyleJanka\obj\Debug\FileReaderKyleJanka.pdb
